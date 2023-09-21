@@ -2,7 +2,7 @@
 
 ### Full-stack Developer
 
-![https://github.com/ingjesushernandez](https://firebasestorage.googleapis.com/v0/b/jesus-dev-2023.appspot.com/o/imagenes%2Fbanner-portada-git-perfil.jpg?alt=media)
+![https://github.com/ingjesushernandez](https://firebasestorage.googleapis.com/v0/b/netcore-iot-4de62.appspot.com/o/perfil-jesus.png?alt=media)
 
 
 Soy ingeniero electrónico profesional desde hace más de 5 años.
