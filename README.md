@@ -5,7 +5,7 @@
 ![https://github.com/ingjesushernandez](https://firebasestorage.googleapis.com/v0/b/netcore-iot-4de62.appspot.com/o/perfil-jesus.png?alt=media)
 
 
-Soy ingeniero electrónico profesional desde hace más de 5 años.
+Soy ingeniero electrónico profesional desde hace más de 6 años, Magister en Industria 4.0 y desarrollador de Software Fullstack.
 
 Mi objetivo es combinar mi conocimiento con mi pasión por la innovación para crear soluciones tecnológicas efectivas y de calidad. Cuento con una amplia experiencia en diversas tecnologías y en la creación de aplicaciones web y móviles. Mi dedicación en cada proyecto me ha permitido destacar en el campo de la ingeniería.
 
