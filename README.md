@@ -2,11 +2,11 @@
 <h3 align="center">Ingeniero Electrónico | Magíster en Industria 4.0 | Desarrollador de Software</h3>
 
 <p>
-Soy Ingeniero Electrónico con más de 10 años de experiencia profesional y Magíster en Industria 4.0. Mi trayectoria se ha enfocado en el desarrollo de soluciones tecnológicas que integran software y hardware, con impacto real en sectores como la transformación digital, automatización, logística, educación y atención al cliente.
+Cuento con más de 10 años de experiencia profesional. Mi trayectoria se ha enfocado en el desarrollo de soluciones tecnológicas que integran software y hardware, con impacto real en sectores como la transformación digital, automatización, logística, industria 4.0 y atención al cliente.
 </p>
 
 <p>
-He liderado y participado en el diseño, desarrollo y despliegue de aplicaciones web y móviles, plataformas IoT(Internet Of Things), sistemas administrativos, chatbots, integración con Inteligencia Artificial y soluciones a medida para empresas e instituciones. Mi enfoque combina la ingeniería, la eficiencia operativa y la innovación, buscando siempre entregar productos escalables, funcionales y alineados con las necesidades del usuario final.
+He liderado y participado en el diseño, desarrollo y despliegue de aplicaciones web y móviles, plataformas IoT (Internet Of Things), sistemas administrativos, chatbots, integración con Inteligencia Artificial y soluciones a medida para empresas e instituciones. Mi enfoque combina la ingeniería, la eficiencia operativa y la innovación, buscando siempre entregar productos escalables, funcionales y alineados con las necesidades del usuario final.
 </p>
 
 <p>
