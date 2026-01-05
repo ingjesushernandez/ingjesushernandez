@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm <a href="https://jdavidev.com" target="_blank">
+<h1 align="center"><b>Hi , I'm <a href="https://jdavidev.com" target="blank">
 Jesus David</a></b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">Ingeniero Electrónico | Magíster en Industria 4.0 | Desarrollador de Software</h3>
 <br/>
@@ -41,8 +41,8 @@ Disfruto trabajar en proyectos desafiantes que promuevan la mejora continua, el 
 </div>
 <!--icons and links-->
 <p align="center">
-	<a target="_blank" href="mailto:jdhernandezg@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a target="_blank" href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
-	<a target="_blank" href="https://www.linkedin.com/in/ingjesushernandez/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a target="_blank" href="https://jdavidev.com"><img src="https://img.shields.io/badge/www.jdavidev.com-8A2BE2" alt="Web JDaviDev"/></a>
+	<a target="blank" href="mailto:jdhernandezg@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a target="blank" href="https://wa.link/qor0qi"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+	<a target="blank" href="https://www.linkedin.com/in/ingjesushernandez/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a target="blank" href="https://jdavidev.com"><img src="https://img.shields.io/badge/www.jdavidev.com-8A2BE2" alt="Web JDaviDev"/></a>
 </p>
