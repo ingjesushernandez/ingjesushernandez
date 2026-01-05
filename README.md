@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm <a href="https://jdavidev.com" target="blank">
 Jesus David</a></b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Ingeniero Electrónico | Magíster en Industria 4.0 | Desarrollador de Software</h3>
+<h3 align="center">Electronic Engineer | Master Industry 4.0 | Software Developer</h3>
 <br/>
 
 <p>
